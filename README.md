@@ -1,4 +1,4 @@
-A demo mocks file list(style) of github according to book <pure react>. 
+A demo mocks file list(style) of github according to book Pure React. 
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
